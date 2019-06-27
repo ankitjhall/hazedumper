@@ -1,6 +1,6 @@
 # hazedumper
 
-🚀 Up to date offset and dumper-config for Counter-Strike: Global Offensive. For more informations visit the [release page on UnKnoWnCheaTs](https://www.unknowncheats.me/forum/counterstrike-global-offensive/169351-haze-dumper-json-config-based-offset-dumper.html).
+🚀 Up to date offset and dumper-config for Counter-Strike: Global Offensive. For more informations visit the [release page on UnKnoWnCheaTs](https://www.unknowncheats.me/forum/counterstrike-global-offensive/169351-haze-dumper-json-config-based-offset-dumper.html)..
 
 ## Local Player
 Since in the past the signature for the LocalPlayer was broken a few times and/or pointed to something wrong, I want to offer you an alternative.
